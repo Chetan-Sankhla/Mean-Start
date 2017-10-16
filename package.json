@@ -1,0 +1,32 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetan-Sankhla/Mean-Start.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Chetan Sankhla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetan-Sankhla/Mean-Start/issues"
+  },
+  "homepage": "https://github.com/Chetan-Sankhla/Mean-Start#readme",
+  "dependencies": {
+    "@angular/animations": "^4.4.5",
+    "@angular/cdk": "^2.0.0-beta.12",
+    "@angular/material": "^2.0.0-beta.12",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.2"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.7"
+  }
+}
